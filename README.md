@@ -22,3 +22,9 @@ A simple Pac-Man style arcade game built using Python.
 
 ```bash
 pip install -r requirements.txt
+## ▶️ How to Run
+
+1. Install the required package:
+
+```bash
+pip install -r requirements.txt
